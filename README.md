@@ -1,1 +1,1 @@
-"# spark_java_boilerplate" 
+# spark_java_boilerplate
